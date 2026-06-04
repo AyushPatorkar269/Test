@@ -17,5 +17,5 @@ void setup() {
 
 void loop() {
   Serial.println("Hello, ESP32!");
-  delay(1000);  // Wait for 1 second before printing again
+  delay(500);  // Wait for 1 second before printing again
 }
